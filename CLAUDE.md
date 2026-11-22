@@ -13,3 +13,4 @@ The number of digits defaults to 4 but can be overridden by a command line param
 
 Always use US spellings in code and documentation, unless conforming to some existing API requires the use of UK spellings.
 All commits should go to the main branch.
+Use Unix (LF) line endings in all files, including Windows-specific ones such as .bat files, and keep them LF when checked out on Windows.
